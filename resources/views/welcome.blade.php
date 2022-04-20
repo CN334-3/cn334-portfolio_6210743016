@@ -133,7 +133,7 @@ body, html {
 <!-- Work Section -->
 <div class="w3-container" style="padding:128px 16px" id="work">
   <h3 class="w3-center">MY PROJECT</h3>
-  <p class="w3-center w3-large">My project in software-engineering</p>
+  <p class="w3-center w3-large">My project in Software-Engineering</p>
 
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-col l3 m6">
